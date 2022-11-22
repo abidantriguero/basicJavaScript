@@ -7,7 +7,7 @@
 10 * 3
 20 / 2
 
-'Diego ' + 'De Granda'
+'Abidan ' + 'Triguero'
 
 // Unary operator, aquí es porque hay solo 1 operando involucrado 
 
